@@ -1,4 +1,4 @@
-Password Manager
+# Password Manager
 
 #### This is a coding project done quite early for my Cryptography class end-of-semester project.
 #### So there will be many fixes and additions as I move
